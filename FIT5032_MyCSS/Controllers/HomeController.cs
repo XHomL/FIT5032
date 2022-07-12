@@ -26,5 +26,11 @@ namespace FIT5032_MyCSS.Controllers
 
             return View();
         }
+        public ActionResult Example()
+        {
+            ViewBag.Message = "Your example page.";
+
+            return View();
+        }
     }
 }
