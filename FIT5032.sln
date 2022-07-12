@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIT5032_MyDatabaseFirst", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIT5032_MyDatabaseFirst.Tests", "FIT5032_MyDatabaseFirst.Tests\FIT5032_MyDatabaseFirst.Tests.csproj", "{B0943487-C2B7-4D8B-B4A8-D985712D3E65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIT5032_MyCodeSnippet", "FIT5032_MyCodeSnippet\FIT5032_MyCodeSnippet.csproj", "{C5AA244F-5175-42A5-9C3F-ED7279606DF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIT5032_MyCodeSnippet.Tests", "FIT5032_MyCodeSnippet.Tests\FIT5032_MyCodeSnippet.Tests.csproj", "{77973829-7D1D-43C6-881F-0174F3B661C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{B0943487-C2B7-4D8B-B4A8-D985712D3E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0943487-C2B7-4D8B-B4A8-D985712D3E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0943487-C2B7-4D8B-B4A8-D985712D3E65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5AA244F-5175-42A5-9C3F-ED7279606DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AA244F-5175-42A5-9C3F-ED7279606DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AA244F-5175-42A5-9C3F-ED7279606DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AA244F-5175-42A5-9C3F-ED7279606DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77973829-7D1D-43C6-881F-0174F3B661C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77973829-7D1D-43C6-881F-0174F3B661C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77973829-7D1D-43C6-881F-0174F3B661C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77973829-7D1D-43C6-881F-0174F3B661C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
