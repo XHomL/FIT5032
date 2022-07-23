@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIT5032_MyCodeSnippet.Tests
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIT5032_MyModelFirst", "FIT5032_MyModelFirst\FIT5032_MyModelFirst.csproj", "{CBF732CC-7674-427E-9E46-4D45AAE8277F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIT5032_MyJS", "FIT5032_MyJS\FIT5032_MyJS.csproj", "{E2C7AFA9-448A-4696-AA92-F79D62EF555C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{CBF732CC-7674-427E-9E46-4D45AAE8277F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBF732CC-7674-427E-9E46-4D45AAE8277F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBF732CC-7674-427E-9E46-4D45AAE8277F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C7AFA9-448A-4696-AA92-F79D62EF555C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C7AFA9-448A-4696-AA92-F79D62EF555C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C7AFA9-448A-4696-AA92-F79D62EF555C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C7AFA9-448A-4696-AA92-F79D62EF555C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
