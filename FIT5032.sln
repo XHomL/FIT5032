@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIT5032_MyModelFirst", "FIT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIT5032_MyJS", "FIT5032_MyJS\FIT5032_MyJS.csproj", "{E2C7AFA9-448A-4696-AA92-F79D62EF555C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIT5032_MyViewModel", "FIT5032_MyViewModel\FIT5032_MyViewModel.csproj", "{4D7A12C6-6140-41F8-8ED6-F21E8EB3FF85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIT5032_MyIdentity", "FIT5032_MyIdentity\FIT5032_MyIdentity.csproj", "{92110B32-3FAC-40C7-83EE-7EC161BEE161}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{E2C7AFA9-448A-4696-AA92-F79D62EF555C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2C7AFA9-448A-4696-AA92-F79D62EF555C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2C7AFA9-448A-4696-AA92-F79D62EF555C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D7A12C6-6140-41F8-8ED6-F21E8EB3FF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7A12C6-6140-41F8-8ED6-F21E8EB3FF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7A12C6-6140-41F8-8ED6-F21E8EB3FF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7A12C6-6140-41F8-8ED6-F21E8EB3FF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92110B32-3FAC-40C7-83EE-7EC161BEE161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92110B32-3FAC-40C7-83EE-7EC161BEE161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92110B32-3FAC-40C7-83EE-7EC161BEE161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92110B32-3FAC-40C7-83EE-7EC161BEE161}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
